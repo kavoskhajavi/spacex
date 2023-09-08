@@ -18,6 +18,6 @@ I do not use third parties in the project
  * Detail Page 
 ![Alt text](README_FILES/sample2.png?raw=true "Clean Architecture Layers")
 
-*Main Page
+## Main Page
 
 ![Alt text](README_FILES/sample1.png?raw=true "Clean Architecture Layers")
